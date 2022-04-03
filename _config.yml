@@ -1,13 +1,22 @@
 title: Blog
 author:
-  name: Zanerogl
-  email: z534214462@gmail.com
+  name: GitHub User
+  email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   My study notes.
 
 minima:
   date_format: "%b %-d, %Y"
 
+  social_links:
+    twitter: ZaneZeng7
+    github:  zanerogl
+    
+    
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
   social_links:
     twitter: ZaneZeng7
     github:  zanerogl
