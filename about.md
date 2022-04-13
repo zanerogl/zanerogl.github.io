@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cheat
-permalink: /Cheat/
+title: about
+permalink: /about/
 ---
 
 # Nothing 😆 😛
