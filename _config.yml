@@ -4,6 +4,7 @@ description: Blog
 show_downloads: false
 google_analytics: #[bkfb3fz2fg]
 theme: jekyll-theme-minimal
+favicon: /assets/img/avatar.png
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
