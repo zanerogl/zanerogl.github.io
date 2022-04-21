@@ -21,4 +21,4 @@ minima:
     twitter: ZaneZeng7
     github:  zanerogl
 
-theme: minima
+theme: jekyll-theme-minimal
